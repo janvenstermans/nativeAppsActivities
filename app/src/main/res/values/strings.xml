@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ActivityOne</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="activity_one_button">Start activity two</string>
+    <string name="activity_one_label_onCreate">onCreate() calls:</string>
+    <string name="activity_one_label_onStart">onStart() calls:</string>
+    <string name="activity_one_label_onResume">onResume() calls:</string>
+    <string name="activity_one_label_onRestart">onRestart() calls:</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+
+    <string name="activity_two_button">Close activity</string>
+    <string name="activity_two_label_onCreate">onCreate() calls:</string>
+    <string name="activity_two_label_onStart">onStart() calls:</string>
+    <string name="activity_two_label_onResume">onResume() calls:</string>
+    <string name="activity_two_label_onRestart">onRestart() calls:</string>
+</resources>
